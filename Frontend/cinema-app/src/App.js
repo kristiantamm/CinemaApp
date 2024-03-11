@@ -5,13 +5,14 @@ import Layout from './Components/Layout';
 import { Routes, Route } from 'react-router-dom';
 import Home from './Components/home/Home';
 import Header from './Components/header/Header';
+import MoviePage from './Components/moviePage/MoviePage';
 
 function App() {
 
-  const [movies, setMovies] = useState();
+  const [movies, setMovies] = useState([]);
 
   const getMovies = async () =>{
-    try{
+    try {
       //implement http status code check
       const response = await api.get("/api/v1/movies");
       console.log(response.data);
@@ -23,14 +24,15 @@ function App() {
 
   useEffect(() => {
     getMovies();
-  }, [])
+  }, []);
 
   return (
     <div className="App">
-      <Header/>
+      <Header />
       <Routes>
-        <Route path="/" element={<Layout/>}>
-          <Route path='/' element={<Home movies={movies}/>}></Route>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home movies={movies} />} />
+          <Route path="movie/:id" element={<MoviePage />} />
         </Route>
       </Routes>
     </div>

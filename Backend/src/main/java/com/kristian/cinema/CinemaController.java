@@ -20,7 +20,7 @@ public class CinemaController {
         return new ResponseEntity<List<Movie>>(movieService.allMovies(), HttpStatus.OK);
     }
     @GetMapping("/{id}")
-    public ResponseEntity<Optional<Movie>> getSingleMovie(@PathVariable Integer id) {
+    public ResponseEntity<Optional<Movie>> getSingleMovie(@PathVariable String id) {
         return new ResponseEntity<Optional<Movie>>(movieService.singleMovie(id), HttpStatus.OK);
     }
     @GetMapping("/filter")

@@ -18,10 +18,9 @@ const Home = ({ movies, setMovies }) => {
           });
         }
       }
-      console.log("Params:", filters);
       const response = await axios.get('http://localhost:8080/api/v1/movies/filter', { params });
       setFilteredMovies(response.data);
-      setFiltersApplied(true); // Set filters applied to true after applying filters
+      setFiltersApplied(true);
     } catch (error) {
       console.error('Error fetching filtered movies:', error);
     }
