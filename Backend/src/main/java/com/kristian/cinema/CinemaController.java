@@ -23,4 +23,12 @@ public class CinemaController {
     public ResponseEntity<Optional<Movie>> getSingleMovie(@PathVariable Integer id) {
         return new ResponseEntity<Optional<Movie>>(movieService.singleMovie(id), HttpStatus.OK);
     }
+    @GetMapping("/filter")
+    public ResponseEntity<List<Movie>> getFilteredMovies(
+        @RequestParam(required = false) List<String> genres,
+        @RequestParam(required = false) List<String> ratings)
+    {
+        List<Movie> filteredMovies = movieService.getFilteredMovies(genres, ratings);
+        return new ResponseEntity(filteredMovies, HttpStatus.OK);
+    }
 }

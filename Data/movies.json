@@ -236,20 +236,5 @@
         "plot": "The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
         "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
         "rating": "PG-13"
-    },
-    {
-        "title": "The Pianist",
-        "year": "2002",
-        "runtime": "150",
-        "genres": [
-            "Biography",
-            "Drama",
-            "War"
-        ],
-        "director": "Roman Polanski",
-        "actors": "Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard",
-        "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
-        "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTc4OTkyOTA3OF5BMl5BanBnXkFtZTYwMDIxNjk5._V1_SX300.jpg",
-        "rating": "R"
     }
 ]
