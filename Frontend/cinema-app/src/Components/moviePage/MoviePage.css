@@ -1,0 +1,45 @@
+.movie-page{
+    display: flex;
+    background-color: gray;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.trailer-details{
+    display: flex;
+}
+
+.movie-details{
+    padding: 5vh;
+    text-align: left;
+}
+
+.plot-poster{
+    display: flex;
+    width: 65%;
+}
+.plot-poster img{
+    flex: 1;
+}
+
+.movie-plot{
+    flex: 1;
+}
+
+.movie-details{
+    margin: 5vh;
+}
+
+.movie-rating{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    width: fit-content;
+}
+
+.choose-seat-button{
+    border-radius: 10px;
+    padding: 1vh;
+    background-color: gold;
+}
