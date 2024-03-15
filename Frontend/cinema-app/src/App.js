@@ -3,9 +3,10 @@ import api from './api/axiosConfig';
 import { useState, useEffect } from 'react';
 import Layout from './Components/Layout';
 import { Routes, Route } from 'react-router-dom';
-import Home from './Components/home/Home';
+import Home from './Pages/home/Home';
 import Header from './Components/header/Header';
-import MoviePage from './Components/moviePage/MoviePage';
+import MoviePage from './Pages/moviePage/MoviePage';
+import ChooseSeats from './Pages/chooseSeats/ChooseSeats'
 
 function App() {
 
@@ -13,7 +14,6 @@ function App() {
 
   const getMovies = async () =>{
     try {
-      //implement http status code check
       const response = await api.get("/api/v1/movies");
       console.log(response.data);
       setMovies(response.data);
@@ -33,6 +33,7 @@ function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home movies={movies} />} />
           <Route path="movie/:id" element={<MoviePage />} />
+          <Route path="movie/seats/:id" element={<ChooseSeats />}/>
         </Route>
       </Routes>
     </div>

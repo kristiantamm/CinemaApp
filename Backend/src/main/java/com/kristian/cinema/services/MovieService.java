@@ -1,5 +1,7 @@
-package com.kristian.cinema;
+package com.kristian.cinema.services;
 
+import com.kristian.cinema.objects.Movie;
+import com.kristian.cinema.repos.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

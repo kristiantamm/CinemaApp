@@ -1,5 +1,6 @@
-package com.kristian.cinema;
+package com.kristian.cinema.repos;
 
+import com.kristian.cinema.objects.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

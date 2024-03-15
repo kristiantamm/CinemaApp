@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Hero from '../hero/Hero';
-import List from '../list/List';
-import Filter from '../filter/Filter';
+import Hero from '../../Components/hero/Hero';
+import List from '../../Components/list/List';
+import Filter from '../../Components/filter/Filter';
 import axios from 'axios';
 
 const Home = ({ movies, setMovies }) => {

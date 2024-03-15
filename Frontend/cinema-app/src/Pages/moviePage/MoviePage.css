@@ -1,6 +1,6 @@
 .movie-page{
     display: flex;
-    background-color: gray;
+    background-color: grey;
     color: white;
     flex-direction: column;
     justify-content: center;
@@ -42,4 +42,12 @@
     border-radius: 10px;
     padding: 1vh;
     background-color: gold;
+}
+.movie-title{
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.trailer{
+    margin-top: 10vh;
 }
