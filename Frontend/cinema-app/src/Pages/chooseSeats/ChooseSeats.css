@@ -41,9 +41,8 @@
 }
 
 .Cinema {
-  margin-bottom: 18px;
   perspective: 400px;
-
+  margin-top: 10vh;
   display: grid;
   place-items: center;
   grid-gap: 24px;

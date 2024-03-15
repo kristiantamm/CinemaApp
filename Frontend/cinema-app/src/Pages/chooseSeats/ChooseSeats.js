@@ -9,6 +9,7 @@ export default function ChooseSeats() {
   const [screenings, setScreenings] = useState([]);
   const [selectedScreening, setSelectedScreening] = useState(null);
   const [selectedSeats, setSelectedSeats] = useState([]);
+  const [ticketCount, setTicketCount] = useState(1); // State for ticket count
 
   useEffect(() => {
     api.get(`http://localhost:8080/api/v1/screenings/${id}`)
@@ -18,7 +19,6 @@ export default function ChooseSeats() {
       })
       .catch(error => console.error('Error fetching screenings:', error));
   }, [id]);
-  
 
   function handleScreeningChange(screening) {
     setSelectedSeats([]);
@@ -34,22 +34,55 @@ export default function ChooseSeats() {
     }
   }
 
+  function selectSeatsInMiddle(screening, seatCount) {
+    const availableSeats = Array.from({ length: 8 * 8 }, (_, i) => i).filter(
+      seat => !screening.occupied.includes(seat)
+    );
+
+    const selected = [];
+    const middleIndex = Math.floor(availableSeats.length / 2);
+    const startIndex = seatCount % 2 === 0 ? middleIndex + 1 : middleIndex;
+
+    for (let i = startIndex; i >= 0 && selected.length < seatCount; i--) {
+      selected.push(availableSeats[i]);
+    }
+
+    for (let i = startIndex + 1; i < availableSeats.length && selected.length < seatCount; i++) {
+      selected.push(availableSeats[i]);
+    }
+
+    setSelectedSeats(selected);
+  }
+
   return (
     <div className="ChooseSeats">
       <Screenings screenings={screenings} onChange={handleScreeningChange} />
       <ShowCase />
       {selectedScreening && (
-        <Cinema
-          screening={selectedScreening}
-          selectedSeats={selectedSeats}
-          onSelectedSeatsChange={handleSelectedState}
-        />
+        <>
+          <div>
+            <label htmlFor="ticketCount">Number of Tickets:</label>
+            <input
+              type="number"
+              id="ticketCount"
+              value={ticketCount}
+              min="1"
+              onChange={e => setTicketCount(parseInt(e.target.value))}
+            />
+            <button onClick={() => selectSeatsInMiddle(selectedScreening, ticketCount)}>Select Seats</button>
+          </div>
+          <Cinema
+            screening={selectedScreening}
+            selectedSeats={selectedSeats}
+            onSelectedSeatsChange={handleSelectedState}
+          />
+        </>
       )}
       <p className="info">
         You have selected <span className="count">{selectedSeats.length}</span>{' '}
         seats for the price of{' '}
         <span className="total">
-          {selectedSeats.length * (selectedScreening ? selectedScreening.ticket_price : 0)}$
+          {selectedSeats.length * (selectedScreening ? selectedScreening.ticket_price : 0)}€
         </span>
       </p>
     </div>
@@ -69,7 +102,7 @@ function Screenings({ screenings, onChange }) {
       >
         {screenings.map(screening => (
           <option key={screening.screening_time} value={screening.screening_time}>
-            {screening.screening_time} (${screening.ticket_price})
+            {screening.screening_time} ({screening.ticket_price}€)
           </option>
         ))}
       </select>

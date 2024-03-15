@@ -1,0 +1,1840 @@
+[{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c79"
+  },
+  "occupied": [
+    14,
+    13,
+    64,
+    47,
+    26,
+    23,
+    22,
+    10,
+    27,
+    15,
+    39
+  ],
+  "screening_time": "13:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c7a"
+  },
+  "occupied": [
+    3,
+    61,
+    25,
+    45,
+    33,
+    24,
+    23,
+    6,
+    26,
+    41,
+    5
+  ],
+  "screening_time": "17:10:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c7b"
+  },
+  "occupied": [
+    2,
+    60,
+    22,
+    51,
+    49,
+    25,
+    36,
+    13,
+    18,
+    11,
+    1
+  ],
+  "screening_time": "18:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c7c"
+  },
+  "occupied": [
+    11,
+    58,
+    53,
+    6,
+    55,
+    15,
+    45,
+    19,
+    5,
+    21,
+    52
+  ],
+  "screening_time": "10:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c7d"
+  },
+  "occupied": [
+    18,
+    10,
+    2,
+    44,
+    12,
+    64,
+    20,
+    6,
+    13,
+    3,
+    34
+  ],
+  "screening_time": "09:40:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f8"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c7e"
+  },
+  "occupied": [
+    23,
+    46,
+    9,
+    21,
+    62,
+    27,
+    49,
+    32,
+    37,
+    38,
+    19
+  ],
+  "screening_time": "11:05:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c7f"
+  },
+  "occupied": [
+    56,
+    25,
+    18,
+    43,
+    8,
+    7,
+    61,
+    3,
+    52,
+    50,
+    21
+  ],
+  "screening_time": "11:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c80"
+  },
+  "occupied": [
+    32,
+    42,
+    62,
+    31,
+    14,
+    51,
+    58,
+    30,
+    48,
+    33,
+    17
+  ],
+  "screening_time": "14:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c81"
+  },
+  "occupied": [
+    63,
+    22,
+    19,
+    12,
+    4,
+    52,
+    57,
+    21,
+    58,
+    42,
+    17
+  ],
+  "screening_time": "19:00:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c82"
+  },
+  "occupied": [
+    53,
+    38,
+    49,
+    59,
+    44,
+    27,
+    55,
+    12,
+    39,
+    28,
+    7
+  ],
+  "screening_time": "20:55:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144f9"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c83"
+  },
+  "occupied": [
+    10,
+    41,
+    61,
+    23,
+    17,
+    9,
+    42,
+    3,
+    58,
+    37,
+    12
+  ],
+  "screening_time": "14:55:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14501"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c84"
+  },
+  "occupied": [
+    51,
+    55,
+    57,
+    49,
+    31,
+    4,
+    41,
+    29,
+    53,
+    62,
+    37
+  ],
+  "screening_time": "18:35:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14501"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc354f618e461ca70c85"
+  },
+  "occupied": [
+    23,
+    7,
+    51,
+    18,
+    37,
+    44,
+    27,
+    34,
+    56,
+    32,
+    41
+  ],
+  "screening_time": "17:05:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14501"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c86"
+  },
+  "occupied": [
+    33,
+    62,
+    58,
+    23,
+    41,
+    50,
+    8,
+    43,
+    38,
+    10,
+    49
+  ],
+  "screening_time": "09:15:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14501"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c87"
+  },
+  "occupied": [
+    44,
+    58,
+    1,
+    22,
+    20,
+    33,
+    59,
+    24,
+    64,
+    8,
+    14
+  ],
+  "screening_time": "14:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14501"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c88"
+  },
+  "occupied": [
+    60,
+    62,
+    33,
+    6,
+    47,
+    41,
+    2,
+    31,
+    15,
+    16,
+    26
+  ],
+  "screening_time": "12:35:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14503"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c89"
+  },
+  "occupied": [
+    46,
+    60,
+    47,
+    55,
+    57,
+    35,
+    51,
+    54,
+    25,
+    28,
+    23
+  ],
+  "screening_time": "17:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14503"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c8a"
+  },
+  "occupied": [
+    6,
+    37,
+    9,
+    28,
+    18,
+    3,
+    13,
+    35,
+    32,
+    64,
+    10
+  ],
+  "screening_time": "11:20:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14503"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c8b"
+  },
+  "occupied": [
+    59,
+    45,
+    46,
+    11,
+    17,
+    13,
+    50,
+    37,
+    35,
+    48,
+    4
+  ],
+  "screening_time": "14:20:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14503"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c8c"
+  },
+  "occupied": [
+    9,
+    46,
+    20,
+    60,
+    30,
+    41,
+    31,
+    64,
+    22,
+    62,
+    47
+  ],
+  "screening_time": "16:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14503"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c8d"
+  },
+  "occupied": [
+    29,
+    60,
+    28,
+    39,
+    64,
+    13,
+    37,
+    30,
+    21,
+    17,
+    12
+  ],
+  "screening_time": "20:00:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c8e"
+  },
+  "occupied": [
+    64,
+    46,
+    54,
+    28,
+    4,
+    26,
+    14,
+    53,
+    59,
+    60,
+    7
+  ],
+  "screening_time": "10:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c8f"
+  },
+  "occupied": [
+    63,
+    27,
+    42,
+    17,
+    16,
+    2,
+    4,
+    40,
+    60,
+    56,
+    3
+  ],
+  "screening_time": "19:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c90"
+  },
+  "occupied": [
+    30,
+    38,
+    57,
+    64,
+    32,
+    63,
+    19,
+    61,
+    23,
+    7,
+    45
+  ],
+  "screening_time": "13:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c91"
+  },
+  "occupied": [
+    43,
+    41,
+    5,
+    14,
+    55,
+    6,
+    38,
+    13,
+    19,
+    15,
+    46
+  ],
+  "screening_time": "12:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fd"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc364f618e461ca70c92"
+  },
+  "occupied": [
+    16,
+    53,
+    48,
+    55,
+    12,
+    25,
+    39,
+    52,
+    7,
+    11,
+    22
+  ],
+  "screening_time": "16:40:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c93"
+  },
+  "occupied": [
+    32,
+    55,
+    54,
+    40,
+    18,
+    60,
+    29,
+    23,
+    10,
+    42,
+    45
+  ],
+  "screening_time": "09:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c94"
+  },
+  "occupied": [
+    20,
+    28,
+    9,
+    44,
+    1,
+    38,
+    2,
+    14,
+    30,
+    16,
+    22
+  ],
+  "screening_time": "13:10:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c95"
+  },
+  "occupied": [
+    39,
+    10,
+    11,
+    12,
+    34,
+    5,
+    9,
+    33,
+    54,
+    1,
+    18
+  ],
+  "screening_time": "19:55:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c96"
+  },
+  "occupied": [
+    46,
+    6,
+    12,
+    39,
+    52,
+    64,
+    13,
+    5,
+    15,
+    44,
+    63
+  ],
+  "screening_time": "11:05:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c97"
+  },
+  "occupied": [
+    58,
+    1,
+    57,
+    62,
+    61,
+    16,
+    31,
+    11,
+    25,
+    40,
+    54
+  ],
+  "screening_time": "20:40:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14506"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c98"
+  },
+  "occupied": [
+    54,
+    42,
+    44,
+    7,
+    25,
+    5,
+    16,
+    2,
+    57,
+    41,
+    27
+  ],
+  "screening_time": "18:00:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14506"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c99"
+  },
+  "occupied": [
+    25,
+    8,
+    24,
+    1,
+    15,
+    7,
+    5,
+    28,
+    10,
+    55,
+    29
+  ],
+  "screening_time": "20:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14506"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c9a"
+  },
+  "occupied": [
+    46,
+    50,
+    6,
+    9,
+    62,
+    52,
+    63,
+    58,
+    34,
+    47,
+    59
+  ],
+  "screening_time": "21:00:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14506"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c9b"
+  },
+  "occupied": [
+    6,
+    15,
+    57,
+    17,
+    10,
+    46,
+    51,
+    19,
+    7,
+    47,
+    52
+  ],
+  "screening_time": "11:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14506"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c9c"
+  },
+  "occupied": [
+    62,
+    28,
+    50,
+    60,
+    45,
+    8,
+    57,
+    1,
+    38,
+    36,
+    47
+  ],
+  "screening_time": "15:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14507"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c9d"
+  },
+  "occupied": [
+    39,
+    6,
+    62,
+    64,
+    16,
+    41,
+    56,
+    28,
+    31,
+    26,
+    38
+  ],
+  "screening_time": "14:10:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14507"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c9e"
+  },
+  "occupied": [
+    3,
+    26,
+    39,
+    47,
+    54,
+    13,
+    30,
+    15,
+    5,
+    24,
+    25
+  ],
+  "screening_time": "11:20:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14507"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70c9f"
+  },
+  "occupied": [
+    22,
+    59,
+    18,
+    30,
+    23,
+    19,
+    61,
+    20,
+    41,
+    55,
+    7
+  ],
+  "screening_time": "09:00:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14507"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc374f618e461ca70ca0"
+  },
+  "occupied": [
+    36,
+    5,
+    6,
+    49,
+    16,
+    26,
+    32,
+    53,
+    9,
+    21,
+    28
+  ],
+  "screening_time": "16:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14507"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca1"
+  },
+  "occupied": [
+    26,
+    34,
+    37,
+    38,
+    2,
+    48,
+    7,
+    9,
+    63,
+    45,
+    13
+  ],
+  "screening_time": "14:00:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca2"
+  },
+  "occupied": [
+    59,
+    47,
+    27,
+    3,
+    15,
+    51,
+    46,
+    9,
+    29,
+    41,
+    61
+  ],
+  "screening_time": "14:35:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca3"
+  },
+  "occupied": [
+    35,
+    37,
+    16,
+    43,
+    22,
+    47,
+    21,
+    52,
+    9,
+    64,
+    50
+  ],
+  "screening_time": "09:10:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca4"
+  },
+  "occupied": [
+    25,
+    58,
+    3,
+    42,
+    1,
+    37,
+    49,
+    40,
+    10,
+    45,
+    41
+  ],
+  "screening_time": "12:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca5"
+  },
+  "occupied": [
+    6,
+    32,
+    49,
+    48,
+    9,
+    23,
+    56,
+    50,
+    36,
+    62,
+    33
+  ],
+  "screening_time": "12:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca6"
+  },
+  "occupied": [
+    60,
+    46,
+    45,
+    20,
+    5,
+    39,
+    62,
+    21,
+    8,
+    52,
+    54
+  ],
+  "screening_time": "11:20:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca7"
+  },
+  "occupied": [
+    59,
+    35,
+    62,
+    15,
+    17,
+    11,
+    41,
+    50,
+    32,
+    60,
+    42
+  ],
+  "screening_time": "13:15:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca8"
+  },
+  "occupied": [
+    25,
+    30,
+    53,
+    61,
+    31,
+    13,
+    26,
+    18,
+    11,
+    5,
+    42
+  ],
+  "screening_time": "18:35:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70ca9"
+  },
+  "occupied": [
+    58,
+    1,
+    54,
+    10,
+    60,
+    20,
+    62,
+    52,
+    3,
+    47,
+    26
+  ],
+  "screening_time": "14:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70caa"
+  },
+  "occupied": [
+    30,
+    5,
+    42,
+    12,
+    3,
+    2,
+    7,
+    4,
+    60,
+    27,
+    45
+  ],
+  "screening_time": "09:40:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc384f618e461ca70cab"
+  },
+  "occupied": [
+    41,
+    63,
+    50,
+    36,
+    9,
+    26,
+    48,
+    18,
+    31,
+    52,
+    47
+  ],
+  "screening_time": "14:20:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cac"
+  },
+  "occupied": [
+    34,
+    6,
+    15,
+    9,
+    14,
+    25,
+    64,
+    31,
+    46,
+    62,
+    1
+  ],
+  "screening_time": "18:55:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cad"
+  },
+  "occupied": [
+    7,
+    39,
+    20,
+    18,
+    25,
+    44,
+    19,
+    14,
+    58,
+    62,
+    6
+  ],
+  "screening_time": "10:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cae"
+  },
+  "occupied": [
+    59,
+    28,
+    18,
+    23,
+    45,
+    21,
+    43,
+    58,
+    46,
+    64,
+    6
+  ],
+  "screening_time": "15:45:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70caf"
+  },
+  "occupied": [
+    17,
+    46,
+    13,
+    47,
+    27,
+    26,
+    61,
+    30,
+    28,
+    54,
+    62
+  ],
+  "screening_time": "15:00:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb0"
+  },
+  "occupied": [
+    47,
+    26,
+    48,
+    38,
+    50,
+    42,
+    30,
+    56,
+    36,
+    10,
+    17
+  ],
+  "screening_time": "18:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14504"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb1"
+  },
+  "occupied": [
+    39,
+    55,
+    51,
+    22,
+    21,
+    60,
+    54,
+    3,
+    9,
+    2,
+    47
+  ],
+  "screening_time": "17:35:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14504"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb2"
+  },
+  "occupied": [
+    19,
+    49,
+    51,
+    33,
+    13,
+    37,
+    7,
+    20,
+    5,
+    21,
+    16
+  ],
+  "screening_time": "12:15:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14504"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb3"
+  },
+  "occupied": [
+    25,
+    34,
+    62,
+    41,
+    24,
+    33,
+    50,
+    2,
+    44,
+    32,
+    12
+  ],
+  "screening_time": "18:20:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14504"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb4"
+  },
+  "occupied": [
+    42,
+    21,
+    28,
+    49,
+    30,
+    29,
+    61,
+    17,
+    34,
+    32,
+    53
+  ],
+  "screening_time": "16:25:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14504"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb5"
+  },
+  "occupied": [
+    26,
+    63,
+    5,
+    32,
+    10,
+    37,
+    48,
+    58,
+    8,
+    44,
+    64
+  ],
+  "screening_time": "13:15:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb6"
+  },
+  "occupied": [
+    19,
+    53,
+    42,
+    23,
+    27,
+    35,
+    64,
+    18,
+    13,
+    57,
+    59
+  ],
+  "screening_time": "20:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb7"
+  },
+  "occupied": [
+    54,
+    56,
+    41,
+    13,
+    26,
+    7,
+    12,
+    36,
+    39,
+    29,
+    58
+  ],
+  "screening_time": "11:55:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb8"
+  },
+  "occupied": [
+    17,
+    19,
+    22,
+    31,
+    40,
+    61,
+    1,
+    37,
+    11,
+    7,
+    44
+  ],
+  "screening_time": "12:15:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc394f618e461ca70cb9"
+  },
+  "occupied": [
+    52,
+    59,
+    10,
+    42,
+    26,
+    50,
+    41,
+    36,
+    37,
+    46,
+    11
+  ],
+  "screening_time": "11:55:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b144fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cba"
+  },
+  "occupied": [
+    11,
+    44,
+    16,
+    33,
+    14,
+    35,
+    50,
+    25,
+    52,
+    56,
+    38
+  ],
+  "screening_time": "18:40:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14500"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cbb"
+  },
+  "occupied": [
+    60,
+    59,
+    25,
+    43,
+    28,
+    1,
+    29,
+    16,
+    2,
+    3,
+    15
+  ],
+  "screening_time": "13:10:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14500"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cbc"
+  },
+  "occupied": [
+    60,
+    46,
+    13,
+    47,
+    49,
+    59,
+    55,
+    35,
+    23,
+    21,
+    64
+  ],
+  "screening_time": "10:45:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14500"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cbd"
+  },
+  "occupied": [
+    41,
+    21,
+    55,
+    59,
+    58,
+    19,
+    15,
+    32,
+    6,
+    9,
+    17
+  ],
+  "screening_time": "14:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14500"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cbe"
+  },
+  "occupied": [
+    13,
+    55,
+    64,
+    46,
+    44,
+    29,
+    8,
+    4,
+    48,
+    61,
+    43
+  ],
+  "screening_time": "15:05:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14500"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cbf"
+  },
+  "occupied": [
+    34,
+    9,
+    46,
+    53,
+    50,
+    60,
+    55,
+    41,
+    12,
+    47,
+    54
+  ],
+  "screening_time": "17:55:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14502"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc0"
+  },
+  "occupied": [
+    20,
+    13,
+    21,
+    56,
+    18,
+    6,
+    9,
+    49,
+    44,
+    7,
+    2
+  ],
+  "screening_time": "10:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14502"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc1"
+  },
+  "occupied": [
+    43,
+    26,
+    52,
+    53,
+    20,
+    27,
+    54,
+    37,
+    21,
+    23,
+    57
+  ],
+  "screening_time": "13:50:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14502"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc2"
+  },
+  "occupied": [
+    16,
+    3,
+    2,
+    22,
+    40,
+    48,
+    50,
+    21,
+    44,
+    39,
+    31
+  ],
+  "screening_time": "12:30:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14502"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc3"
+  },
+  "occupied": [
+    57,
+    60,
+    2,
+    15,
+    34,
+    20,
+    19,
+    50,
+    51,
+    55,
+    58
+  ],
+  "screening_time": "20:05:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14502"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc4"
+  },
+  "occupied": [
+    29,
+    32,
+    63,
+    64,
+    4,
+    3,
+    1,
+    5,
+    31,
+    21,
+    42
+  ],
+  "screening_time": "16:10:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14505"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc5"
+  },
+  "occupied": [
+    43,
+    5,
+    1,
+    8,
+    47,
+    38,
+    34,
+    32,
+    15,
+    23,
+    19
+  ],
+  "screening_time": "16:40:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14505"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc6"
+  },
+  "occupied": [
+    9,
+    39,
+    11,
+    43,
+    25,
+    31,
+    20,
+    52,
+    59,
+    6,
+    8
+  ],
+  "screening_time": "13:15:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14505"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3a4f618e461ca70cc7"
+  },
+  "occupied": [
+    13,
+    58,
+    37,
+    20,
+    5,
+    8,
+    64,
+    17,
+    60,
+    31,
+    52
+  ],
+  "screening_time": "17:15:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14505"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f1bc3b4f618e461ca70cc8"
+  },
+  "occupied": [
+    9,
+    16,
+    48,
+    42,
+    50,
+    63,
+    35,
+    53,
+    29,
+    64,
+    25
+  ],
+  "screening_time": "16:10:00",
+  "ticket_price": 10,
+  "movieid": {
+    "$oid": "65ea5288f0d45f87a8b14505"
+  }
+}]

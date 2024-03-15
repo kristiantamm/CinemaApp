@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import './Filter.css';
 
+//Filtreerib žanrite ja vanusepiirangu alusel
 const Filter = ({ applyFilters }) => {
-    const genresList = ["Action", "Drama", "Comedy"];
+    const genresList = ["Action","Adventure","Animation", "Drama", "Comedy"];
     const ageRatingList = ["PG", "R", "PG-13"];
 
     const [filters, setFilters] = useState({

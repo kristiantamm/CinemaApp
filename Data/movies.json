@@ -1,240 +1,286 @@
-[
-    {
-        "title": "The Big Short",
-        "year": "2015",
-        "runtime": "130",
-        "genres": [
-            "Biography",
-            "Comedy",
-            "Drama"
-        ],
-        "director": "Adam McKay",
-        "actors": "Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert",
-        "plot": "Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
-        "rating": "R"
-    },
-	{
-            "title": "City of God",
-            "year": "2002",
-            "runtime": "130",
-            "genres": [
-                "Crime",
-                "Drama"
-            ],
-            "director": "Fernando Meirelles, Kátia Lund",
-            "actors": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva",
-            "plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg",
-	    "rating":"R"
-        },
-    {
-        "title": "The Martian",
-        "year": "2015",
-        "runtime": "144",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Sci-Fi"
-        ],
-        "director": "Ridley Scott",
-        "actors": "Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels",
-        "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
-        "rating": "PG-13"
-    },
-    {
-        "title": "Whiplash",
-        "year": "2014",
-        "runtime": "107",
-        "genres": [
-            "Drama",
-            "Music"
-        ],
-        "director": "Damien Chazelle",
-        "actors": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist",
-        "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1_SX300.jpg",
-        "rating": "R"
-    },
-    {
-        "title": "Ice Age",
-        "year": "2002",
-        "runtime": "81",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy"
-        ],
-        "director": "Chris Wedge, Carlos Saldanha",
-        "actors": "Ray Romano, John Leguizamo, Denis Leary, Goran Visnjic",
-        "plot": "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1_SX300.jpg",
-        "rating": "PG"
-    },
-    {
-        "title": "Despicable Me",
-        "year": "2010",
-        "runtime": "95",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy"
-        ],
-        "director": "Pierre Coffin, Chris Renaud",
-        "actors": "Steve Carell, Jason Segel, Russell Brand, Julie Andrews",
-        "plot": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
-        "rating": "PG"
-    },
-    {
-        "title": "Mr. & Mrs. Smith",
-        "year": "2005",
-        "runtime": "120",
-        "genres": [
-            "Action",
-            "Comedy",
-            "Crime"
-        ],
-        "director": "Doug Liman",
-        "actors": "Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody",
-        "plot": "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzcxNzQzOF5BMl5BanBnXkFtZTcwMzQxNjUyMw@@._V1_SX300.jpg",
-        "rating": "PG-13"
-    },
-    {
-        "title": "Interstellar",
-        "year": "2014",
-        "runtime": "169",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Sci-Fi"
-        ],
-        "director": "Christopher Nolan",
-        "actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
-        "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
-        "rating": "PG-13"
-    },
-    {
-        "title": "Pacific Rim",
-        "year": "2013",
-        "runtime": "131",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "director": "Guillermo del Toro",
-        "actors": "Charlie Hunnam, Diego Klattenhoff, Idris Elba, Rinko Kikuchi",
-        "plot": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg",
-        "rating": "PG-13"
-    },
-    {
-        "title": "Alice in Wonderland",
-        "year": "2010",
-        "runtime": "108",
-        "genres": [
-            "Adventure",
-            "Family",
-            "Fantasy"
-        ],
-        "director": "Tim Burton",
-        "actors": "Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway",
-        "plot": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SX300.jpg",
-        "rating": "PG"
-    },
-    {
-        "title": "V for Vendetta",
-        "year": "2005",
-        "runtime": "132",
-        "genres": [
-            "Action",
-            "Drama",
-            "Thriller"
-        ],
-        "director": "James McTeigue",
-        "actors": "Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry",
-        "plot": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg",
-        "rating": "PG-13"
-    },
-    {
-        "title": "The Grand Budapest Hotel",
-        "year": "2014",
-        "runtime": "99",
-        "genres": [
-            "Adventure",
-            "Comedy",
-            "Crime"
-        ],
-        "director": "Wes Anderson",
-        "actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody",
-        "plot": "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
-        "rating": "R"
-    },
-    {
-        "title": "The Wolf of Wall Street",
-        "year": "2013",
-        "runtime": "180",
-        "genres": [
-            "Biography",
-            "Comedy",
-            "Crime"
-        ],
-        "director": "Martin Scorsese",
-        "actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
-        "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
-        "rating": "R"
-    },
-    {
-        "title": "Casino Royale",
-        "year": "2006",
-        "runtime": "144",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Thriller"
-        ],
-        "director": "Martin Campbell",
-        "actors": "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench",
-        "plot": "Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjI4NDExNF5BMl5BanBnXkFtZTcwMDM1MjMzMQ@@._V1_SX300.jpg",
-        "rating": "PG-13"
-    },
-    {
-        "title": "WALL\u00c2\u00b7E",
-        "year": "2008",
-        "runtime": "98",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Family"
-        ],
-        "director": "Andrew Stanton",
-        "actors": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",
-        "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_SX300.jpg",
-        "rating": "PG"
-    },
-    {
-        "title": "Catch Me If You Can",
-        "year": "2002",
-        "runtime": "141",
-        "genres": [
-            "Biography",
-            "Crime",
-            "Drama"
-        ],
-        "director": "Steven Spielberg",
-        "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
-        "plot": "The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
-        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
-        "rating": "PG-13"
-    }
-]
+[{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144f8"
+  },
+  "title": "The Big Short",
+  "year": "2015",
+  "runtime": "130",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "director": "Adam McKay",
+  "actors": "Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert",
+  "plot": "Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+  "rating": "R"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144f9"
+  },
+  "title": "City of God",
+  "year": "2002",
+  "runtime": "130",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "director": "Fernando Meirelles, Kátia Lund",
+  "actors": "Alexandre Rodrigues, Leandro Firmino, Phellipe Haagensen, Douglas Silva",
+  "plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg",
+  "rating": "R"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144fa"
+  },
+  "title": "The Martian",
+  "year": "2015",
+  "runtime": "144",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "director": "Ridley Scott",
+  "actors": "Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels",
+  "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+  "rating": "PG-13"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144fb"
+  },
+  "title": "Whiplash",
+  "year": "2014",
+  "runtime": "107",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "director": "Damien Chazelle",
+  "actors": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist",
+  "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1_SX300.jpg",
+  "rating": "R"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144fc"
+  },
+  "title": "Ice Age",
+  "year": "2002",
+  "runtime": "81",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "director": "Chris Wedge, Carlos Saldanha",
+  "actors": "Ray Romano, John Leguizamo, Denis Leary, Goran Visnjic",
+  "plot": "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1_SX300.jpg",
+  "rating": "PG"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144fd"
+  },
+  "title": "Despicable Me",
+  "year": "2010",
+  "runtime": "95",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "director": "Pierre Coffin, Chris Renaud",
+  "actors": "Steve Carell, Jason Segel, Russell Brand, Julie Andrews",
+  "plot": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
+  "rating": "PG"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144fe"
+  },
+  "title": "Mr. & Mrs. Smith",
+  "year": "2005",
+  "runtime": "120",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "director": "Doug Liman",
+  "actors": "Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody",
+  "plot": "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzcxNzQzOF5BMl5BanBnXkFtZTcwMzQxNjUyMw@@._V1_SX300.jpg",
+  "rating": "PG-13"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b144ff"
+  },
+  "title": "Interstellar",
+  "year": "2014",
+  "runtime": "169",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "director": "Christopher Nolan",
+  "actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+  "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+  "rating": "PG-13"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14500"
+  },
+  "title": "Pacific Rim",
+  "year": "2013",
+  "runtime": "131",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "director": "Guillermo del Toro",
+  "actors": "Charlie Hunnam, Diego Klattenhoff, Idris Elba, Rinko Kikuchi",
+  "plot": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg",
+  "rating": "PG-13"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14501"
+  },
+  "title": "Alice in Wonderland",
+  "year": "2010",
+  "runtime": "108",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "director": "Tim Burton",
+  "actors": "Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway",
+  "plot": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SX300.jpg",
+  "rating": "PG"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14502"
+  },
+  "title": "V for Vendetta",
+  "year": "2005",
+  "runtime": "132",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "director": "James McTeigue",
+  "actors": "Natalie Portman, Hugo Weaving, Stephen Rea, Stephen Fry",
+  "plot": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg",
+  "rating": "PG-13"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14503"
+  },
+  "title": "The Grand Budapest Hotel",
+  "year": "2014",
+  "runtime": "99",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "director": "Wes Anderson",
+  "actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody",
+  "plot": "The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
+  "rating": "R"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14504"
+  },
+  "title": "The Wolf of Wall Street",
+  "year": "2013",
+  "runtime": "180",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Crime"
+  ],
+  "director": "Martin Scorsese",
+  "actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
+  "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+  "rating": "R"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14505"
+  },
+  "title": "Casino Royale",
+  "year": "2006",
+  "runtime": "144",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "director": "Martin Campbell",
+  "actors": "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench",
+  "plot": "Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjI4NDExNF5BMl5BanBnXkFtZTcwMDM1MjMzMQ@@._V1_SX300.jpg",
+  "rating": "PG-13"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14506"
+  },
+  "title": "WALLÂ·E",
+  "year": "2008",
+  "runtime": "98",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "director": "Andrew Stanton",
+  "actors": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",
+  "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_SX300.jpg",
+  "rating": "PG"
+},
+{
+  "_id": {
+    "$oid": "65ea5288f0d45f87a8b14507"
+  },
+  "title": "Catch Me If You Can",
+  "year": "2002",
+  "runtime": "141",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "director": "Steven Spielberg",
+  "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
+  "plot": "The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
+  "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+  "rating": "PG-13"
+}]

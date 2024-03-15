@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
+//Youtube API ja filmi pealkirja põhjal kuvab traileri
 const Trailer = ({ title }) => {
   const [trailerUrl, setTrailerUrl] = useState('');
 
